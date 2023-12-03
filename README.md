@@ -41,6 +41,22 @@ CISSP_Domain_08
 
 The Mindmap can be more effective with images and short notes, I have laready added some reference images and shortnotes for most the topics for ready reference for the content. Please fell free to inform or upload reference images or notes that will help the mindmap to be more effective
 
+[CISSP_Domain_01](https://github.com/sajinshivdas/CISSP_Interactive_Mindmap/tree/main/CISSP_Domain_01)
+
+[CISSP_Domain_02](https://github.com/sajinshivdas/CISSP_Interactive_Mindmap/tree/main/CISSP_Domain_02)
+
+[CISSP_Domain_03](https://github.com/sajinshivdas/CISSP_Interactive_Mindmap/tree/main/CISSP_Domain_03)
+
+[CISSP_Domain_04](https://github.com/sajinshivdas/CISSP_Interactive_Mindmap/tree/main/CISSP_Domain_04)
+
+[CISSP_Domain_05](https://github.com/sajinshivdas/CISSP_Interactive_Mindmap/tree/main/CISSP_Domain_05)
+
+[CISSP_Domain_06](https://github.com/sajinshivdas/CISSP_Interactive_Mindmap/tree/main/CISSP_Domain_06)
+
+[CISSP_Domain_07](https://github.com/sajinshivdas/CISSP_Interactive_Mindmap/tree/main/CISSP_Domain_07)
+
+[CISSP_Domain_08](https://github.com/sajinshivdas/CISSP_Interactive_Mindmap/tree/main/CISSP_Domain_08)
+
 
 
 
