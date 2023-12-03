@@ -3,4 +3,4 @@ CISSP interactive Mindmap is created using the information I received from sever
 
 🌐 Mindmap Link
 
-Domain_01 - Security and Risk Management
+Domain_01 - [Security and Risk Management](https://sajinshivdas.com/cybersecurity/cissp-mindmap-domain-1/)
