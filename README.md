@@ -4,3 +4,17 @@ This Mindmap has been meticulously created to ensure that information is shared 
 🌐 Mindmap Link
 
 Domain_01 - [Security and Risk Management](https://sajinshivdas.com/cybersecurity/cissp-mindmap-domain-1/)
+
+Domain_02
+
+Domain_03
+
+Domain_04
+
+Domain_05
+
+Domain_06
+
+Domain_07
+
+Domain_08
