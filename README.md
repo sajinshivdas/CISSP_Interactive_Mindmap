@@ -3,18 +3,46 @@ This Mindmap has been meticulously created to ensure that information is shared 
 
 🌐 Mindmap Link
 
-Domain_01 - [Security and Risk Management](https://sajinshivdas.com/cybersecurity/cissp-mindmap-domain-1/)
+📖 Resources
 
-Domain_02
+👤 Issues
 
-Domain_03
 
-Domain_04
 
-Domain_05
 
-Domain_06
 
-Domain_07
 
-Domain_08
+
+
+
+
+
+
+🌐 Mindmap Link
+
+CISSP_Domain_01 - [Security and Risk Management](https://sajinshivdas.com/cybersecurity/cissp-mindmap-domain-1/)
+
+CISSP_Domain_02
+
+CISSP_Domain_03
+
+CISSP_Domain_04
+
+CISSP_Domain_05
+
+CISSP_Domain_06
+
+CISSP_Domain_07
+
+CISSP_Domain_08
+
+
+📖 Resources
+
+The Mindmap can be more effective with images and short notes, i have laready added some reference images and shortnotes for most the topics for ready reference for the content. Please fell free to inform or upload reference images or notes that will help to mindmap to be more effective
+
+
+
+
+
+👤 Issues
