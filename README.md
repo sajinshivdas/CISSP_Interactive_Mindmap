@@ -46,3 +46,10 @@ The Mindmap can be more effective with images and short notes, I have laready ad
 
 
 👤 Issues
+
+For issues and concern please feel free to raise a issue in Github link https://github.com/sajinshivdas/CISSP_Interactive_Mindmap/issues
+
+Connect with me www.linkedin.com/in/sajin-shivdas
+
+Visit Website Link https://sajinshivdas.com/cybersecurity/cissp-mindmap-domain-1/
+
