@@ -39,7 +39,7 @@ CISSP_Domain_08
 
 📖 Resources
 
-The Mindmap can be more effective with images and short notes, I have laready added some reference images and shortnotes for most the topics for ready reference for the content. Please fell free to inform or upload reference images or notes that will help the mindmap to be more effective
+The Mindmap can be more effective with images and short notes, I have laready added some reference images and shortnotes for most the topics for ready reference of the content. Please feel free to inform or upload reference images or notes that will help the mindmap to be more effective
 
 [CISSP_Domain_01](https://github.com/sajinshivdas/CISSP_Interactive_Mindmap/tree/main/CISSP_Domain_01)
 
